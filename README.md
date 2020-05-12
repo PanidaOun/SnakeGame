@@ -10,6 +10,6 @@ The player controls a snake on a bordered plane with the arrow keys on the keybo
 
 
 ## How to use the application.
-1. open terminal and cd to the file that collect SnakeGame.jar file.
-2. use this command  --module-path (your javafx path)--add-modules javafx.controls -jar SnakeGame.jar to open the application.
+1. Open terminal and cd to the file that collect SnakeGame.jar file.
+2. Use this command java -jar SnakeGame.jar or if you use Java 11, you need to specify the module path for JavaFX. Enter: java --module-path (your javafx path)--add-modules javafx.controls -jar SnakeGame.jar to open the application.
 
